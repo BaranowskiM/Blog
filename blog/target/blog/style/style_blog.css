@@ -1,0 +1,49 @@
+html{
+    font-size: 62.5%;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    position: relative;
+    display: block;
+    text-align: center;
+    font-size: 5rem;
+}
+
+tr td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+#username{
+    width: 250px;
+    font-size: 3rem;
+    height: 40px;
+    text-align: center;
+}
+
+#date {
+    width: 250px;
+    font-size: 2rem;
+    height: 40px;
+    text-align: center;
+}
+#deletebutton {
+    width: 80px;
+    align-items: center;
+}
+
+#firstrow {
+    margin: 2px, 0px, 2px, 0px;
+}
+
+#writtenmessage{
+    font-size: 1.5rem;
+    text-align: left;
+}
+
+

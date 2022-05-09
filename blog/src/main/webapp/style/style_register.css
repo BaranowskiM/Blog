@@ -1,0 +1,70 @@
+html{
+    font-size: 62.5%;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    position: relative;
+    display: block;
+    text-align: center;
+    font-size: 5rem;
+}
+
+
+#registerField {
+    position: relative;
+    left: 50%;
+    top: 50px;
+    width: 300px;
+    height: 220px;
+    padding: 5px 5px 5px 5px;
+    transform: translateX(-50%);
+    background-color: chocolate;
+}
+
+#registerField div {
+    position: relative;
+    display: block;
+    margin: 5px 0px 5px 0px;
+}
+
+#registerField label {
+    display: block;
+    text-align: center;
+    font-size: 1rem;
+}
+
+#registerField input {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 2rem;
+    height: 4.5rem;
+}
+
+#registerField button {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 1.5rem;
+}
+
+#login {
+    position: relative;
+    display: block;
+    text-align: center;
+    font-size: 2rem;
+}
+
+#topright{
+    position: relative;
+    float: right;
+    width: 300px;
+    height: 30px;
+    display: block;
+    background-color: rgb(215, 236, 20);
+}
